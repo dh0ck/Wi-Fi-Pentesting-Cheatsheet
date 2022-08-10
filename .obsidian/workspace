@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "492a326353b059c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "476f93c884cacee6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Wifi/cheatsheet/4 - WEP.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "680bc5aa78a5933d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d9eb0a2da90fdda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27e741c605726c96",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7154fd1c8672777",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "asleap",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 358
+  },
+  "right": {
+    "id": "aa498f7513dec2ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab49a8f275f2e7df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "630fd092ef0cd465",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wifi/cheatsheet/4 - WEP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "9a078fe72184961d",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "476f93c884cacee6",
+  "lastOpenFiles": [
+    "zzz_images/Pasted image 20220707110514.png",
+    "Pasted image 20220806114049.png.md",
+    "zzz_images/Pasted image 20220705162006.png",
+    "zzz_images/Pasted image 20220705161948.png",
+    "zzz_images/Pasted image 20220701204113.png",
+    "zzz_images/Pasted image 20220701204326.png",
+    "Wifi/cheatsheet/8 - wireshark.md",
+    "Wifi/cheatsheet/7 - Rogue AP.md",
+    "Wifi/cheatsheet/6 - WPA enterprise.md",
+    "Wifi/cheatsheet/0 - connect to networks.md"
+  ]
+}
