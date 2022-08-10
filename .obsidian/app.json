@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "vimMode": true,
+  "showFrontmatter": false,
+  "attachmentFolderPath": "zzz_images",
+  "legacyEditor": false
+}
